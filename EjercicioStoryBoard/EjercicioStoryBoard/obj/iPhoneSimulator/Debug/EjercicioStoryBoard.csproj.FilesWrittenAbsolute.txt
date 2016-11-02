@@ -1,0 +1,9 @@
+/Users/enrique/Projects/EjercicioStoryBoard/EjercicioStoryBoard/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Projects/EjercicioStoryBoard/EjercicioStoryBoard/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/EjercicioStoryBoard/EjercicioStoryBoard/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Projects/EjercicioStoryBoard/EjercicioStoryBoard/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/EjercicioStoryBoard/EjercicioStoryBoard/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Projects/EjercicioStoryBoard/EjercicioStoryBoard/bin/iPhoneSimulator/Debug/EjercicioStoryBoard.exe.mdb
+/Users/enrique/Projects/EjercicioStoryBoard/EjercicioStoryBoard/bin/iPhoneSimulator/Debug/EjercicioStoryBoard.exe
+/Users/enrique/Projects/EjercicioStoryBoard/EjercicioStoryBoard/obj/iPhoneSimulator/Debug/EjercicioStoryBoard.exe
+/Users/enrique/Projects/EjercicioStoryBoard/EjercicioStoryBoard/obj/iPhoneSimulator/Debug/EjercicioStoryBoard.exe.mdb

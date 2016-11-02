@@ -1,0 +1,24 @@
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/bin/iPhoneSimulator/Debug/Ejercicio-MapasiOS.exe.mdb
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/bin/iPhoneSimulator/Debug/Ejercicio-MapasiOS.exe
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/Ejercicio-MapasiOS.exe
+/Users/enrique/Projects/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/Ejercicio-MapasiOS.exe.mdb
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/bin/iPhoneSimulator/Debug/Ejercicio-MapasiOS.exe.mdb
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/bin/iPhoneSimulator/Debug/Ejercicio-MapasiOS.exe
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/Ejercicio-MapasiOS.exe
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/Ejercicio-MapasiOS.exe.mdb
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items

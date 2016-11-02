@@ -1,0 +1,38 @@
+# Version: 10.2.0.4 (xcode8.1: b638977)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.2.0.4/lib/mtouch/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.2.0.4/lib/mtouch/mtouch.exe \
+	--cache \
+	/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/bin/iPhoneSimulator/Debug/EjercicioiOSActivosPasivos.app \
+	--executable \
+	EjercicioiOSActivosPasivos \
+	--fastdev \
+	--debug \
+	--profiling \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.0 \
+	--targetver \
+	10.0 \
+	--http-message-handler=HttpClientHandler \
+	--tls-provider=default \
+	--abi=i386 \
+	--symbollist \
+	/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/bin/iPhoneSimulator/Debug//EjercicioiOSActivosPasivos.exe \

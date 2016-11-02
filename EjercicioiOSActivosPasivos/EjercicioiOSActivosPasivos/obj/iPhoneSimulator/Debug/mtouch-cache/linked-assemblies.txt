@@ -1,0 +1,4 @@
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/mtouch-cache/Link/EjercicioiOSActivosPasivos.exe
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll

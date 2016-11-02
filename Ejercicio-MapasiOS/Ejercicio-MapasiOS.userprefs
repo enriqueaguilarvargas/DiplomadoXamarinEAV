@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0DFFB37B-8C2A-438E-9ED8-8B9A2BD02D7A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio-MapasiOS/ViewController.cs">
+    <Files>
+      <File FileName="Ejercicio-MapasiOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Ejercicio-MapasiOS/ViewController.cs" Line="7" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ejercicio-MapasiOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D764AA82-C728-4DCC-94F7-6EFE96E4F826" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

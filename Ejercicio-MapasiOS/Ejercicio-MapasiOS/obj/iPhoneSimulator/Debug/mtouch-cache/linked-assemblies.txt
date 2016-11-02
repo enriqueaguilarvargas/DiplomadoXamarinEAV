@@ -1,0 +1,4 @@
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Ejercicio-MapasiOS.exe
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/enrique/Desktop/iOS 2016/Ejercicio-MapasiOS/Ejercicio-MapasiOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll

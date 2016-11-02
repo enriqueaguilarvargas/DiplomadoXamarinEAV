@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{67E93BAB-532B-4CA8-A2B6-A71E786A0999}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccesoSQLiteyServicio/ViewController.cs">
+    <Files>
+      <File FileName="AccesoSQLiteyServicio/ViewController.cs" Line="4" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccesoSQLiteyServicio" expanded="True">
+            <Node name="AccesoSQLiteyServicio" expanded="True">
+              <Node name="WebReferences" expanded="True" />
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AccesoSQLiteyServicio PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B8B018C9-E106-4728-9D47-F6F2EE929B7C" />
+</Properties>

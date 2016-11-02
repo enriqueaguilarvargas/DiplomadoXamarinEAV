@@ -1,0 +1,9 @@
+_UIApplicationMain
+_xamarin_get_block_descriptor
+_xamarin_timezone_get_data
+_xamarin_log
+_mono_pmip
+_xamarin_dyn_objc_msgSend
+_xamarin_dyn_objc_msgSendSuper
+_xamarin_dyn_objc_msgSend_stret
+_xamarin_dyn_objc_msgSendSuper_stret

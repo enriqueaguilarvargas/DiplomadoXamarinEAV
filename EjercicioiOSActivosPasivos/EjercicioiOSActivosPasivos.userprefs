@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioiOSActivosPasivos/ViewController.cs">
+    <Files>
+      <File FileName="EjercicioiOSActivosPasivos/AppDelegate.cs" Line="10" Column="3" />
+      <File FileName="EjercicioiOSActivosPasivos/ViewController.designer.cs" Line="23" Column="3" />
+      <File FileName="EjercicioiOSActivosPasivos/ViewController.cs" Line="12" Column="37" />
+      <File FileName="../../Desktop/Diplomado Microsoft - Xamarin/iOS - Mapa y Ruta/TUDG2/ViewController.cs" Line="109" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EjercicioiOSActivosPasivos PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B8B018C9-E106-4728-9D47-F6F2EE929B7C" />
+</Properties>

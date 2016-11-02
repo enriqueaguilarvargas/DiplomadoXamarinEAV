@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioiOSActivosPasivos", "EjercicioiOSActivosPasivos\EjercicioiOSActivosPasivos.csproj", "{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}.Release|iPhone.Build.0 = Release|iPhone
+		{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{8F0C7785-5C0B-48BE-9EB2-537FA532C2BF}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

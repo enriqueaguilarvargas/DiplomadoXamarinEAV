@@ -1,0 +1,9 @@
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/bin/iPhoneSimulator/Debug/EjercicioiOSActivosPasivos.exe.mdb
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/bin/iPhoneSimulator/Debug/EjercicioiOSActivosPasivos.exe
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/EjercicioiOSActivosPasivos.exe
+/Users/enrique/Projects/EjercicioiOSActivosPasivos/EjercicioiOSActivosPasivos/obj/iPhoneSimulator/Debug/EjercicioiOSActivosPasivos.exe.mdb

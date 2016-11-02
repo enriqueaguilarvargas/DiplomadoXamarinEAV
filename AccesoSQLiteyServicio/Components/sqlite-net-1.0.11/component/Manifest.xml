@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="sqlite-net" is-shell="true">
+  <name>SQLite.NET</name>
+  <publisher>Xamarin Inc</publisher>
+  <publisher-url>http://xamarin.com/</publisher-url>
+  <src-url>https://github.com/praeclarum/sqlite-net</src-url>
+  <version>1.0.11</version>
+  <summary>Simple, powerful, cross-platform SQLite client and ORM.</summary>
+  <packages>
+    <package id="sqlite-net-pcl" version="1.0.11" framework="win8" />
+    <package id="sqlite-net-pcl" version="1.0.11" framework="android" />
+    <package id="sqlite-net-pcl" version="1.0.11" framework="winphone-8.1" />
+    <package id="sqlite-net-pcl" version="1.0.11" framework="ios-unified" />
+    <package id="sqlite-net-pcl" version="1.0.11" framework="winphone-8.0" />
+    <package id="sqlite-net-pcl" version="1.0.11" framework="ios" />
+  </packages>
+  <samples>
+    <sample id="SQLiteSample">
+      <name>SQLite.NET Sample</name>
+      <summary>SQLite.NET Sample</summary>
+    </sample>
+  </samples>
+</component>
