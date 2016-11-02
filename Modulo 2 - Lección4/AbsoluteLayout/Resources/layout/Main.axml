@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:background="@drawable/fondo">
+    <TextView
+        android:text="Capital Contable"
+        android:layout_width="338.0dp"
+        android:layout_height="80dp"
+        android:gravity="center" />
+    <TextView
+        android:text="Ingresos México"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="80dp"
+        android:gravity="center" />
+    <TextView
+        android:text="Egresos México"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="80dp"
+        android:gravity="center" />
+    <TextView
+        android:text="Ingresos Colombia"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginRight="80dp"
+        android:gravity="center" />
+    <TextView
+        android:text="Egresos Colombia"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginRight="80dp"
+        android:gravity="center" />
+    <EditText
+        android:text="0"
+        android:numeric="integer"
+        android:inputType="number"
+        android:id="@+id/txtingresosM"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <EditText
+        android:text="0"
+        android:id="@+id/txtegresosM"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <EditText
+        android:text="0"
+        android:numeric="integer"
+        android:inputType="number"
+        android:id="@+id/txtingresosC"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <EditText
+        android:text="0"
+        android:id="@+id/txtegresosC"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <Button
+        android:text="Calcular"
+        android:id="@+id/btncalcular"
+        android:background="#FFFF1111"
+        android:layout_width="130dp"
+        android:layout_height="62.5dp"
+        android:layout_marginTop="280dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:layout_marginBottom="0.0dp" />
+</RelativeLayout>

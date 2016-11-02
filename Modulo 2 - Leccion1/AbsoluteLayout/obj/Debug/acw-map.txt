@@ -1,0 +1,4 @@
+AbsoluteLayout.MainActivity, AbsoluteLayout;md57e12d916b826a297e8c3f14cdfc770dc.MainActivity
+AbsoluteLayout.MainActivity, AbsoluteLayout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57e12d916b826a297e8c3f14cdfc770dc.MainActivity
+AbsoluteLayout.MainActivity;md57e12d916b826a297e8c3f14cdfc770dc.MainActivity
+absolutelayout.MainActivity;md57e12d916b826a297e8c3f14cdfc770dc.MainActivity

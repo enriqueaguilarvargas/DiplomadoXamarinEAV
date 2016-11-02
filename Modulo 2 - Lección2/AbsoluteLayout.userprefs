@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{57272264-016B-4287-85EF-823F9528AF70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbsoluteLayout/VistaCapital.cs">
+    <Files>
+      <File FileName="AbsoluteLayout/MainActivity.cs" Line="53" Column="1" />
+      <File FileName="AbsoluteLayout/VistaCapital.cs" Line="50" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AbsoluteLayout AndroidDesignerPreferredDevice="Nexus S" PreferredExecutionTarget="Android.Nexus 7 (Lollipop)" />
+</Properties>

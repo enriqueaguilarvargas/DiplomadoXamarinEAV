@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:background="@drawable/fondo">
+    <TextView
+        android:text="Conversor de Monedas"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:gravity="center" />
+    <TextView
+        android:text="Dólares"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="80dp"
+        android:gravity="center" />
+    <EditText
+        android:text="0"
+        android:numeric="integer"
+        android:inputType="number"
+        android:id="@+id/txtdolares"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <TextView
+        android:text="Pesos"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginRight="80dp"
+        android:gravity="center" />
+    <EditText
+        android:text="0"
+        android:id="@+id/txtpesos"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="180dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <Button
+        android:text="Convertir"
+        android:id="@+id/btnconvertir"
+        android:background="#FFFF1111"
+        android:layout_width="130dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="280dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+</RelativeLayout>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sdk>
+  <AndroidApiLevel>21</AndroidApiLevel>
+  <AndroidApiLevelName>21</AndroidApiLevelName>
+  <AndroidNdkPath>/Users/enrique/Library/Developer/Xamarin/android-ndk/android-ndk-r10d</AndroidNdkPath>
+  <AndroidSdkBuildToolsPath>/Users/enrique/Library/Developer/Xamarin/android-sdk-macosx/build-tools/23.0.0</AndroidSdkBuildToolsPath>
+  <AndroidSdkBuildToolsBinPath>/Users/enrique/Library/Developer/Xamarin/android-sdk-macosx/build-tools/23.0.0</AndroidSdkBuildToolsBinPath>
+  <AndroidSdkPath>/Users/enrique/Library/Developer/Xamarin/android-sdk-macosx</AndroidSdkPath>
+  <JavaSdkPath>/usr</JavaSdkPath>
+  <MonoAndroidBinPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/bin</MonoAndroidBinPath>
+  <MonoAndroidToolsPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/lib/mandroid</MonoAndroidToolsPath>
+  <ReferenceAssemblyPaths>
+    <ReferenceAssemblyPath>/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/</ReferenceAssemblyPath>
+  </ReferenceAssemblyPaths>
+  <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
+  <ZipAlignPath>/Users/enrique/Library/Developer/Xamarin/android-sdk-macosx/build-tools/23.0.0</ZipAlignPath>
+  <MonoAndroidIncludePath />
+  <SupportedApiLevel>21</SupportedApiLevel>
+  <AndroidSequencePointsMode>None</AndroidSequencePointsMode>
+</Sdk>
